@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This portfolio showcases my skills, pr
 
 ## 🌐 Live Preview
 
-> Add your GitHub Pages link here after deployment.
+> [Add your GitHub Pages link here after deployment.](https://seeripi-ganesh-kumar-portfolio-czkk.vercel.app/)
 
 Example:
 ```
