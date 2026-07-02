@@ -2,16 +2,10 @@
 
 Welcome to my personal portfolio website! This portfolio showcases my skills, projects, experience, education, and certifications as a Software Engineer and Full-Stack Developer.
 
-## 🌐 Live Preview
+## 🌐 Live Demo
 
-> [Add your GitHub Pages link here after deployment.](https://seeripi-ganesh-kumar-portfolio-czkk.vercel.app/)
-
-Example:
-```
-https://ganeshkumar12-hub.github.io/Portfolio/
-```
-
----
+🔗 **Portfolio Website:**  
+https://seeripi-ganesh-kumar-portfolio-czkk.vercel.app/
 
 ## 👨‍💻 About Me
 
@@ -20,7 +14,7 @@ I'm **Seeripi Ganesh Kumar**, a Software Engineer and Full-Stack Developer passi
 - 🎓 B.E. in Information Science & Engineering
 - 📍 Bengaluru, India
 - 💼 Ex-Android App Development Intern at MindMatrixEd
-- 🌱 Interested in Software Development, Full-Stack Development, Java, Python, and AI
+- 🌱 Interested in Software Development, Full-Stack Development, Java, Python, AI, and Web Technologies
 
 ---
 
@@ -36,22 +30,22 @@ I'm **Seeripi Ganesh Kumar**, a Software Engineer and Full-Stack Developer passi
 
 ## ✨ Features
 
-- Responsive Design
-- Modern UI/UX
-- Animated Sections
-- Interactive Navigation
-- Smooth Scrolling
-- Project Showcase
-- Skills Section
-- Experience Timeline
-- Contact Information
+- 📱 Responsive Design
+- 🎨 Modern UI/UX
+- ✨ Smooth Animations
+- 🧭 Interactive Navigation
+- 📂 Project Showcase
+- 💻 Skills Section
+- 💼 Experience Timeline
+- 📜 Education & Certifications
+- 📞 Contact Section
 
 ---
 
 ## 📂 Project Structure
 
-```
-Portfolio/
+```text
+Seeripi-Ganesh-Kumar-Portfolio/
 │── index.html
 │── README.md
 ```
@@ -60,43 +54,46 @@ Portfolio/
 
 ## 🚀 Getting Started
 
-Clone the repository
+### Clone the Repository
 
 ```bash
-git clone https://github.com/ganeshkumar12-hub/Portfolio.git
+git clone https://github.com/ganeshkumar12-hub/Seeripi-Ganesh-Kumar-Portfolio.git
 ```
 
-Open the project
+### Navigate to the Project
 
 ```bash
-cd Portfolio
+cd Seeripi-Ganesh-Kumar-Portfolio
 ```
 
-Run locally
+### Run the Project
 
-Simply open `index.html` in your browser.
+Simply open `index.html` in your preferred web browser.
 
 ---
 
 ## 📌 Featured Projects
 
-- TexFusion – AI-Powered Textile Quality Inspection
-- Speech Emotion Recognition
-- Retail Demand Forecasting
-- Gandha Siri (AI Android Application)
+- 🔹 TexFusion – AI-Powered Textile Quality Inspection
+- 🔹 Speech Emotion Recognition
+- 🔹 Retail Demand Forecasting
+- 🔹 Gandha Siri – AI-Powered Android Application
 
 ---
 
 ## 📫 Contact
 
-**Email**
-- seeripi.ganeshkumar@gmail.com
+📧 **Email:**  
+seeripi.ganeshkumar@gmail.com
 
-**LinkedIn**
-- https://www.linkedin.com/in/seeripiganesh-kumar
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/seeripiganesh-kumar
 
-**GitHub**
-- https://github.com/ganeshkumar12-hub
+🐙 **GitHub:**  
+https://github.com/ganeshkumar12-hub
+
+🌐 **Portfolio:**  
+https://seeripi-ganesh-kumar-portfolio-czkk.vercel.app/
 
 ---
 
@@ -108,4 +105,4 @@ If you like this project, please consider giving it a ⭐ on GitHub.
 
 ## 📄 License
 
-This project is open-source and available under the MIT License.
+This project is licensed under the MIT License.
